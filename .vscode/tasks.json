@@ -8,6 +8,24 @@
       "type": "npm",
       "script": "build",
       "problemMatcher": ["$eslint-compact"]
+    },
+    {
+      "label": "Watch",
+      "type": "npm",
+      "script": "watch",
+      "problemMatcher": ["$eslint-compact"]
+    },
+    {
+      "label": "Start",
+      "type": "npm",
+      "script": "start",
+      "problemMatcher": ["$eslint-compact"]
+    },
+    {
+      "label": "Server",
+      "type": "npm",
+      "script": "server",
+      "problemMatcher": ["$eslint-compact"]
     }
   ]
 }
