@@ -1,0 +1,28 @@
+{
+  "name": "webpack-guide",
+  "version": "0.1.0",
+  "description": "Documents guide: https://webpack.js.org/guides/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mytee306/webpack-guide.git"
+  },
+  "keywords": [],
+  "author": "Mateja Petrovic <mateja176@gmail.com> (https://github.com/mytee306)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mytee306/webpack-guide/issues"
+  },
+  "homepage": "https://github.com/mytee306/webpack-guide#readme",
+  "devDependencies": {
+    "webpack": "^4.2.0",
+    "webpack-cli": "^2.0.13"
+  },
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
